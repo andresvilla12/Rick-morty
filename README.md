@@ -1,3 +1,3 @@
-LinK app en producción:
+# Link app en producción:
 
 https://app-rick-morty-andres-villa.netlify.app/
